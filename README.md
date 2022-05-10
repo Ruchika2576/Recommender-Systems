@@ -1,5 +1,5 @@
 # Recommender-Systems
-The mini-projects are associated with University of Glasgow
+The mini-projects are associated with University of Glasgow - Grades A1, A2, A1 respectively
 
 ## Mini Project 1 
 
